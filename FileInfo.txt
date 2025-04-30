@@ -1,10 +1,6 @@
 This Zip file contains:
-1.CodeFile : JP_Fashion_Search_AI.ipynb :Original Code File
-
-2.Screenshots of queries for generation and search layers as requested.
-
-3.CSV dataFile: Fashion Dataset v2.csv :: Updated dataset
-
-4.PDF file: Myntra_Fashion_Search_AI_Queries.pdf : Documentation
-
-5.ImagesFolder: Kaggle link [https://www.kaggle.com/datasets/djagatiya/myntra-fashion-product-dataset]
+* CodeFile : JP_Fashion_Search_AI.ipynb :Original Code File
+* Screenshots of queries for generation and search layers as requested.
+* CSV dataFile: Fashion Dataset v2.csv :: Updated dataset
+* PDF file: Myntra_Fashion_Search_AI_Queries.pdf : Documentation
+* Images: Kaggle link [https://www.kaggle.com/datasets/djagatiya/myntra-fashion-product-dataset]
