@@ -3,4 +3,4 @@ This Zip file contains:
 * Screenshots of queries for generation and search layers as requested.
 * CSV dataFile: Fashion Dataset v2.csv :: Updated dataset
 * PDF file: Myntra_Fashion_Search_AI_Queries.pdf : Documentation
-* Images: Kaggle link [https://www.kaggle.com/datasets/djagatiya/myntra-fashion-product-dataset]
+* for Images, refer to Kaggle link "https://www.kaggle.com/datasets/djagatiya/myntra-fashion-product-dataset"
